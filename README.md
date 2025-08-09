@@ -3,7 +3,7 @@
 The note book one may look for is main notebook.
 The env I used is in environment.yml.
 
-Model: DAViT finetuned on given dataset \n
+Model: DAViT finetuned on given dataset
 
 Estimated accuracy: 88-89% on test set
 
